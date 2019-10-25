@@ -1,0 +1,9 @@
+{
+  "name": "asyncQuerySelector",
+  "version": "1.0.0",
+  "main": "async$.js",
+  "repository": "git@github.com:GitHub30/asyncQuerySelector.git",
+  "author": "Tomofumi Inoue <funaox@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
