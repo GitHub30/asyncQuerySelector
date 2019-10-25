@@ -8,6 +8,8 @@
 <script src="https://rawcdn.githack.com/GitHub30/asyncQuerySelector/dd2ab159c064f622938c10d421505ddd1f6a6d98/async$.js"></script>
 ```
 
+or
+
 ```bash
 yarn add GitHub30/asyncQuerySelector
 ```
